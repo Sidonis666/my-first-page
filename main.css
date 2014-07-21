@@ -1,0 +1,49 @@
+#main {
+	width: 100%;
+	float:left;
+}
+#one {
+	width: 25%;
+	float: left; 
+}
+#two {
+	width: 25%;
+	float: left;
+}
+#three {
+	width: 25%;
+	float: left;
+
+   }
+#four {
+	width: 25%;
+	float: left;
+}
+
+#style1 {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+}
+
+#style2 {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+}
+
+#style3 {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+}
+
+#style4 {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	background-color: red;
+}
